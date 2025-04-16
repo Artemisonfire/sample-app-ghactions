@@ -1,7 +1,6 @@
 name: Build and Call Reusable Deploy
 
 on:
-  push:
   workflow_dispatch:
 
 jobs:
